@@ -1,0 +1,5 @@
+(x, y) =(4, 'fred')
+print(y)
+print(x)
+(a, b) = (99, 98)
+print(x+b)
